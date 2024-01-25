@@ -12,3 +12,5 @@ An application for searching for movies and viewing information about them
 <img width="200" alt="Снимок экрана 2024-01-25 в 22 44 51" src="https://github.com/m1c0meRr/KinoBOX/assets/140728201/8b0f2aca-1ef5-43b5-83c0-e3bdafc34478">
 <img width="200" alt="Снимок экрана 2024-01-25 в 22 45 07" src="https://github.com/m1c0meRr/KinoBOX/assets/140728201/be34a632-9ca8-4e5c-addf-aea3c1f2b15c">
 <img width="200" alt="Снимок экрана 2024-01-25 в 22 45 40" src="https://github.com/m1c0meRr/KinoBOX/assets/140728201/44fecf66-b7ea-4e7b-ae9e-c48f6e7b0bd1">
+
+![Запись экрана 2024-01-25 в 23 29 33](https://github.com/m1c0meRr/KinoBOX/assets/140728201/35978e5b-798e-418b-b33b-f53abddd1b29)
