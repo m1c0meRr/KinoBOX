@@ -4,7 +4,7 @@ An application for searching for movies and viewing information about them
 ## The project uses: 
 + MVC
 + Code layout (without storyBoard)
-+ JSON
++ JSON, RestAPI
    
 ## What it looks like:
 
